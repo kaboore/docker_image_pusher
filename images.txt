@@ -1,2 +1,2 @@
-19970688/nastools-bt:latest
+linuxserver/jackett:latest
 
