@@ -1,3 +1,2 @@
-#支持私库
 19970688/nastools-bt:latest
 
