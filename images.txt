@@ -1,2 +1,2 @@
-linuxserver/jackett:latest
+johngong/qbittorrent:latest
 
