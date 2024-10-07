@@ -1,2 +1,2 @@
-johngong/qbittorrent:latest
+nyanmisaka/jellyfin:latest
 
