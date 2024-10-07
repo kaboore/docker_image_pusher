@@ -1,2 +1,2 @@
-nyanmisaka/jellyfin:latest
+nyanmisaka/jellyfin:10.9.11
 
